@@ -16,11 +16,9 @@
 title: MM
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Matias Rodriguez Vazquez personal website.
 twitter_username: username
-github_username: username
+github_username: matiasrvazquez
 minimal_mistakes_skin: default
 search: true
 
@@ -58,22 +56,25 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Matias R. Vazquez"
+  avatar : "/assets/images/matiasCrop.jpg"
+  bio    : "Theoretical Physicist, Data Scientist, AI engineer."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
+      url: "https://matiasrvazquez.github.io/"
+    - label: "eMail"
+      icon: "fas fa-fw fa-link"
+      url: "mailto:matias.rodriguez.vazquez@gmail.com"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/matiasrvazquez"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/lavidaquedanlasvueltas"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/MaTu1303"
+    - label: "GitHub"
 
 footer:
   links:
