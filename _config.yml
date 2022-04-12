@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Matias R. Vazquez
+email: matias.rodriguez.vazquez@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Matias Rodriguez Vazquez personal website.
-twitter_username: username
+twitter_username: matu1303
 github_username: matiasrvazquez
 minimal_mistakes_skin: default
 search: true
@@ -58,14 +58,18 @@ plugins:
 author:
   name   : "Matias R. Vazquez"
   avatar : "/assets/images/matiasCrop.jpg"
-  bio    : "Theoretical Physicist, Data Scientist, AI engineer."
+  bio    : "Theoretical Physicist, Data Scientist, AI engineer. I like to travel the world on my motorbike in my spare time."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://matiasrvazquez.github.io/"
-    - label: "eMail"
+    - label: "email"
       icon: "fas fa-fw fa-link"
       url: "mailto:matias.rodriguez.vazquez@gmail.com"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/matiasrvazquez/"
+    -label:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/matiasrvazquez"
     - label: "Instagram"
