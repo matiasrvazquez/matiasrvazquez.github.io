@@ -1,8 +1,7 @@
 ---
 permalink: /home
-redirect_from:
-  - /
-title: "home"
+# redirect_from:
+#   - /
 author_profile: true
 ---
 
