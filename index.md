@@ -1,6 +1,5 @@
 ---
-layout: single
-title: About Me
+title: Hello there!
 ---
 
 This is now the homepage.
