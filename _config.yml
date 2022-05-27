@@ -29,7 +29,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/London
 
 include:
   - _pages
@@ -59,17 +59,19 @@ author:
   name   : "Matias R. Vazquez"
   avatar : "/assets/images/matiasCrop.jpg"
   bio    : "Theoretical Physicist, Data Scientist, AI engineer. I like to travel the world on my motorbike in my spare time."
-  links:
+  links  :
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://matiasrvazquez.github.io/"
+
     - label: "email"
       icon: "fas fa-fw fa-link"
       url: "mailto:matias.rodriguez.vazquez@gmail.com"
+
     - label: "LinkedIn"
       icon: "fas fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/matiasrvazquez/"
-    -label:
+    - label:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/matiasrvazquez"
     - label: "Instagram"
