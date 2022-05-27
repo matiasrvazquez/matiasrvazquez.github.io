@@ -1,6 +1,8 @@
 ---
-permalink: /index/
-title: "index"
+permalink: /
+redirect_from:
+  - /home
+title: "home"
 author_profile: true
 ---
 
