@@ -58,9 +58,8 @@ plugins:
 author:
   name   : "Matias R. Vazquez"
   avatar : "/assets/images/matiasCrop.jpg"
-  bio    : "Theoretical Physicist, Data Scientist, AI engineer. I am interested in all aspects of AI - from the mathematical foundations of the algorithms to the MLOps tricks to turn them into products."
+  bio    : "Theoretical Physicist, Data Scientist, AI engineer. \n I am interested in all aspects of AI - from the mathematical foundations of the algorithms to the MLOps tricks to turn them into products."
   location: "London, UK"
-  linkedin: "matiasrvazquez"
   links  :
     - label: "London, UK"
       icon: "fas fa-map-marker-alt"
