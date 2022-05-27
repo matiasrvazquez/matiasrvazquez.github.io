@@ -61,7 +61,7 @@ author:
   bio    : "Theoretical Physicist, Data Scientist, AI engineer. I like to travel the world on my motorbike in my spare time."
   links  :
     - label: "Website"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-github"
       url: "https://matiasrvazquez.github.io/"
 
     - label: "email"
@@ -69,7 +69,7 @@ author:
       url: "mailto:matias.rodriguez.vazquez@gmail.com"
 
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin-square"
+      icon: "fas fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/matiasrvazquez/"
     - label:
       icon: "fab fa-fw fa-github"
@@ -81,6 +81,9 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/MaTu1303"
     - label: "GitHub"
+      icon: "fas fa-fw fa-github"
+      url: "https://github.com/matiasrvazquez"
+
 
 footer:
   links:
