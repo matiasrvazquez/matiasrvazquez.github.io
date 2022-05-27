@@ -1,7 +1,7 @@
 ---
-permalink: /
+permalink: /home
 redirect_from:
-  - /home/
+  - /
 title: "home"
 author_profile: true
 ---
