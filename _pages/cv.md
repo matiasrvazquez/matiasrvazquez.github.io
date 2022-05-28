@@ -3,4 +3,4 @@ permalink: /cv/
 title: "CV"
 ---
 
-Here is my CV
+Check my [LinkedIn](https://www.linkedin.com/in/matiasrvazquez/) profile for an updated CV. A formatted and compressed version is provided on demand.
