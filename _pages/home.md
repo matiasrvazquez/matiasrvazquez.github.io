@@ -5,4 +5,4 @@ permalink: /home
 author_profile: true
 ---
 
-Hello! Welcome to my personal website.
+Hello there! You have arrived to my personal website.
