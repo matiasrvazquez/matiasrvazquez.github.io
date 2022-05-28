@@ -61,6 +61,7 @@ author:
   avatar : "/assets/images/matiasCrop.jpg"
   bio    : "Theoretical Physicist, Data Scientist, AI engineer."
   location: "London, UK"
+  linkedin: "matiasrvazquez"
   links  :
     - label: "London, UK"
       icon: "fas fa-map-marker-alt"
