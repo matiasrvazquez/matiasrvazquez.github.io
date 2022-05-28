@@ -60,10 +60,7 @@ author:
   name   : "Matias R. Vazquez"
   avatar : "/assets/images/matiasCrop.jpg"
   bio    : "Theoretical Physicist, Data Scientist, AI engineer."
-  location: "London, UK"
   linkedin: "matiasrvazquez"
-  twitter: "matu1303"
-  email: "matias.rodriguez.vazquez@gmail.com"
 
   links  :
     - label: "London, UK"
@@ -71,15 +68,15 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:matias.rodriguez.vazquez@gmail.com"
-    # - label: "LinkedIn"
-    #   icon: "fas fa-fw fa-linkedin-in"
-    #   url: "https://www.linkedin.com/in/matiasrvazquez/"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/matiasrvazquez/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/matiasrvazquez"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/MaTu1303"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/MaTu1303"
 
 
 footer:
@@ -90,9 +87,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/matiasrvazquez"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/lavidaquedanlasvueltas"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/matiasrvazquez/"
 
 defaults:
   # _posts
