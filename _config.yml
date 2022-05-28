@@ -60,7 +60,7 @@ author:
   name   : "Matias R. Vazquez"
   avatar : "/assets/images/matiasCrop.jpg"
   bio    : "Theoretical Physicist, Data Scientist, AI engineer."
-  linkedin: "matiasrvazquez"
+  # linkedin: "matiasrvazquez"
 
   links  :
     - label: "London, UK"
