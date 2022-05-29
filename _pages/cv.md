@@ -9,7 +9,7 @@ _(Data) Scientist based in London, UK_ <br> -->
 
 ## 🧑🏻‍💻 Data Science Experience
 
-**Lead Data Scientist** @ [Deloitte Ventures](https://www2.deloitte.com/uk/en/pages/innovation/solutions/ventures.html) _(Jun 2021 - Present)_
+**Lead Data Scientist** @ [Deloitte Ventures](https://www2.deloitte.com/uk/en/pages/innovation/solutions/ventures.html) _(Jun 2021 - Present)_ <br><br>
 **Senior Data Scientist** @ [Deloitte Ventures](https://www2.deloitte.com/uk/en/pages/innovation/solutions/ventures.html)  _(Aug 2021 - Jun 2022)_ <br>
 Deloitte's assets branch.
   - Worked in cross-functional, agile teams to build tech products
@@ -52,7 +52,7 @@ Software and Research Company. Statistics and Probability Algorithm R&D departme
 <!-- _This section accounts for work done pre-career change._
 <br><br> -->
 
-**Early Stage Researcher - PhD student** @ [CNRS](https://cnrs.fr)_(Sep 2014 - Sep 2017)_ <br>
+**Early Stage Researcher - PhD student** @ [CNRS](https://cnrs.fr) _(Sep 2014 - Sep 2017)_ <br>
 
 - Modelling and simulations of particle physics models for experiments at CERN Large Hadron Collider.
 
@@ -83,7 +83,6 @@ Spanish National Research Council. Institute for Fundamental Physics.
 [Universidad Complutense de Madrid](https://www.ucm.es/) - Madrid, Spain _(2008 - 2012)_
 
 **Data Science Fellow** @ [Faculty.ai](https://faculty.ai/) _(Jan 2020 - Mar 2020)_ <br>
-Deep tech company building AI solutions. 
   - Intensive 8 week course and internship covering commercial and technical aspects in Data Science and Machine Learning
   - [Check my project presentation here](https://www.youtube.com/watch?v=Lx5yDauyk0c)
 <br><br>
