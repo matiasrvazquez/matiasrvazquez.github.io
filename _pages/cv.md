@@ -3,117 +3,103 @@ permalink: /cv/
 title: "CV"
 toc: true
 ---
-# Matias R. Vazquez
+<!-- # Matias R. Vazquez
 
-_(Data) Scientist based in London, UK_ <br>
+_(Data) Scientist based in London, UK_ <br> -->
 
-[Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
+## 🧑🏻‍💻 Data Science Experience
 
-## 👩🏼‍💻 Engineering Experience
+**Lead Data Scientist** @ [Deloitte Ventures](https://www2.deloitte.com/uk/en/pages/innovation/solutions/ventures.html) _(Jun 2021 - Present)_
+**Senior Data Scientist** @ [Deloitte Ventures](https://www2.deloitte.com/uk/en/pages/innovation/solutions/ventures.html)  _(Aug 2021 - Jun 2022)_ <br>
+Deloitte's assets branch.
+  - Worked in cross-functional, agile teams to build tech products
+  - Development and maintenance of a ML system based on Genetic Algorithms and MC methods for a Supply Chain optimisation product, with continuous integration and development in a multicloud environment.
 
-**Frontend Engineer** @ [BRYTER](https://bryter.io/) _(Dec 2020 - Present)_ <br>
-No-code platform that enables professionals to build interactive applications.
-  - Implementing features that improve the UI and accessibility of the integrations platform
-  - Extending a company-wide design system
-  - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Web Components (LitElement).
-<br><br>
-
-**Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
-[Google Season of Docs](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
-  - Created a [Frequently Asked Questions (FAQ) resource](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
-  - Triaged issues and reviewed pull requests to the [GraphQL website](https://github.com/graphql/graphql.github.io/)
-  - Wrote [internal documentation](https://github.com/graphql/graphql.github.io/blob/source/CONTRIBUTING.md) to improve the contributing experience
-  - **_Technologies used:_** CSS, React, TypeScript, Gatsby, GraphQL.
-<br><br>
-
-**Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Sep 2020)_ <br>
-Early-stage startup focused on automated API testing and NLP.
-  - Built the [website](https://meeshkan.com/) and the initial web app that visualized the test reports
-  - Maintained [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
-  - Ownership of Meeshkan's documentation and technical blog
-  - **_Technologies used:_** TypeScript, React, Gatsby, Chakra, Next.js, Node.js, GraphQL, REST, Jest, CircleCI, Python.
-  - **_Selected open-source work:_**
-    - [Jest configuration for the unmock-js runner](https://github.com/meeshkan/unmock-jest-runner)
-    - [Property-based testing for JavaScript developers](https://dev.to/meeshkan/property-based-testing-for-javascript-developers-21b2)
-    - [HTTP Mocking Toolkit documentation](https://github.com/meeshkan/hmt)
-    <br><br>
-
-**Frontend Engineer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Sep 2019)_ <br>
-Professional chauffeur service available in over 300 cities worldwide.
-  - Worked in a cross-functional, agile team to rebuild and rebrand the [B2C booking experience](https://www.blacklane.com/en/)
-  - Led an accessibility initiative resulting in the website [passing WCAG 2.0 requirements](https://www.blacklane.com/en/accessibility/)
-  - Extended and maintained a company-wide design system
-  - **_Technologies used:_** HTML, CSS, JavaScript ES6, React, TypeScript, Storybook, Redux, Next.js, REST, Jest, Mocha, Cypress, TravisCI.
+  - Combined ML with Mathematical Optimisation techniques in the context of Operation Research projects.
+  <!-- - **_Technologies used:_** AWS, Azure, Python -->
   <br><br>
 
-**Technical Writer** @ [Contentful](https://www.contentful.com/) _(Sep 2017 - Feb 2018)_ <br>
-API-first infrastructure to create, manage and distribute content.
-  - Ownership of Contentful's [technical blog](https://www.contentful.com/blog/)
-  - Wrote [developer experience documentation](https://www.contentful.com/developers/docs/)
-  - Assistance with information architecture and UX writing for the web app
-  - **_Technologies used:_** React, Gatsby, Node.js, GraphQL, REST, Contentful.
-  - **_Selected writing:_**
-    - [JavaScript SDK guide](https://www.contentful.com/developers/docs/javascript/tutorials/using-js-cda-sdk/)
-    - [Node.js example app and courses](https://the-example-app-nodejs.contentful.com/courses)
-    - Concept references: [Domain model](https://www.contentful.com/developers/docs/concepts/domain-model/), [Multiple environments](https://www.contentful.com/developers/docs/concepts/multiple-environments/)
+
+**Data Scientist** @ [Faculty Opinions](http://facultyopinions.com/) _(Aug 2020 - Aug 2021)_ <br>
+Startup using Data Science and NLP to help researchers in Biology and Medicine find the scientific articles that they should be reading.
+- Full-stack Data Scientist: ETL building (structured and unstructured data pipelines), algorithm design, and full deployment in the cloud.
+- Setting up and leading the ML strategy of the company.
+- Developed, deployed and maintained end-to-end scalable ML solutions for NLP tasks in an Agile environment.
+- Applied and developed NLP methods for Life Sciences (Medicine and Biology).
+<!-- - **_Technologies used:_** Python, AWS, SQL -->
+  <br><br>
+
+**Data Scientist** @ [Easyjet](http://easyjet.com/) _(Jan 2020 - Mar 2020)_ <br>
+Airline company.
+- Combined modern Machine Learning techniques with Monte Carlo simulations to forecast standby crew demand.
+
+- Developed a model to allocate crew duties that reduce 30% of the costs in standby crew with respect to the previous model.
+<!-- - **_Technologies used:_** Python, AWS, SQL -->
+  <br><br>
+
+
+**Kernel Developer - Intern** @ [Wolfram Research](hhttps://www.wolfram.com/) _(Mar 2016 - Jun 2016)_ <br>
+Software and Research Company. Statistics and Probability Algorithm R&D department.
+
+- Worked with state-of-the-art algorithms in the field of statistics and probability.
+- Optimized existing algorithms for sampling, parameter estimation and constrained optimization problems.
+- Developed and documented a new built-in function of the Wolfram Language, with applications for reliability engineering.
+- My code was included in the commercial software Wolfram Mathematica.
     <br><br>
     
-## 🗞 Journalism Experience
+## 🧑🏻‍🔬 Research Experience
 
-_This section only accounts for work done post-career change._
+<!-- _This section accounts for work done pre-career change._
+<br><br> -->
+
+**Early Stage Researcher - PhD student** @ [CNRS](https://cnrs.fr)_(Sep 2014 - Sep 2017)_ <br>
+
+- Modelling and simulations of particle physics models for experiments at CERN Large Hadron Collider.
+
+- Designed innovative analysis strategies for searching Higgs bosons using advanced computational methods.
+
+- Presented novel results in international conferences.
+
+- Published several papers in high impact scientific journals. Google scholar: http://tinyurl.com/y3vjajtm
 <br><br>
 
-**Acting Editor** @ [Future of Sex](https://futureofsex.net/author/carolyn/) _(Apr 2022 - Present)_ <br>
-_Previously worked a Reporter from Dec 2020 - Apr 2022_ <br>
-Online publication that provides insights into the future of human sex and sexuality.
-  - Managing a team of writers and the Future of Sex editorial calendar
-  - Writing features and reporting on events relevant to the sex tech community
-  - **_Selected articles:_**
-    - [Does Having an IUD Make You a Biohacker or a Cyborg?](https://futureofsex.net/augmentation/does-having-an-iud-make-you-a-biohacker-or-a-cyborg/)
-    - [Exploring Queerness By Switching Up My Vibrators](https://futureofsex.net/sex-tech/exploring-queerness-by-switching-up-my-vibrators/)
-    - [Future of Fingering: Lessons Learned from the Award-Winning Tentilex Project](https://futureofsex.net/sex-tech/future-of-fingering-lessons-learned-from-the-award-winning-tentilex-project/)
+
+**Graduate Researcher** @ [CSIC](https://csic.es/) _(Sep 2012 - Sep 2013)_ <br>
+Spanish National Research Council. Institute for Fundamental Physics.
+ - Studied localization effects in Quantum Field Theory, leading to a peer-reviewed publication and my Master's thesis. 
+ - Studied a classical gravitational model beyond Einstein's General Relativity and made a numerical analysis of it, co-authoring a peer-reviewed publication.
 <br><br>
 
-**Freelance Writer** _(Mar 2020 - Present)_ <br>
-Regular contributor to [Sex for Every Body](https://sexforeverybody.com/author/carolyn/). Other articles in [Autostraddle](https://www.autostraddle.com/sharing-is-caring-or-did-you-skip-that-day-in-school__trashed/), [Silicon Allee](https://news.siliconallee.com/2021/07/26/the-art-of-pitching-a-sex-tech-startup/), [Curve Magazine](https://www.curvemag.com/us-home/beyond-the-binary-how-software-engineer-sara-vieira-founded-a-global-community-of-queer-coders/), and [elsewhere](https://workwithcarolyn.com/words).
+
+## 🧑🏻‍🎓 Education
+
+**PhD in Particle Physics** PhD Thesis: "Search for supplementary Higgs Bosons at the LHC". <br>
+[Universite Paris Saclay](https://www.universite-paris-saclay.fr/en) - Paris, France _(2014 - 2017)_
+
+**Masters of Science** Theoretical Physics<br>
+[Universidad Complutense de Madrid](https://www.american.edu/) - Madrid, Spain _(2012- 2013)_
+
+**Bachelor of Science** in Physics, specialised in math and fundamental physics<br>
+[Universidad Complutense de Madrid](https://www.ucm.es/) - Madrid, Spain _(2008 - 2012)_
+
+**Data Science Fellow** @ [Faculty.ai](https://faculty.ai/) _(Jan 2020 - Mar 2020)_ <br>
+Deep tech company building AI solutions. 
+  - Intensive 8 week course and internship covering commercial and technical aspects in Data Science and Machine Learning
+  - [Check my project presentation here](https://www.youtube.com/watch?v=Lx5yDauyk0c)
 <br><br>
 
-**Contributing Editor** @ [FLURT Magazine](https://www.facebook.com/flurtmagazine) _(Mar 2016 - Sep 2018)_ <br>
-Magazine for socially conscious young people who want to create their own media.
-  - Wrote over 20 articles for print and web focused on technology and activism
-  - Edited and curated online-exclusive content
-  - **_Selected articles:_**
-    - [The War on Sex](https://workwithcarolyn.com/words/war-on-sex)
-    - [What to Do if You Get Doxed](https://workwithcarolyn.com/words/what-to-do-if-you-get-doxed)
-    - [How Marijuana Can Improve Your Health](https://workwithcarolyn.com/words/how-marijuana-can-improve-your-health)
-    <br><br>
+**Bachelor of Science** in Economics<br>
+[UNED](https://www.UNED.es/) - Remote _(2019 - current)_
 
-## 📌 On The Side
+<br><br>
 
-**Workshop Lead** @ [New Devs on the Block](https://newdevs.org/) _(Jul 2019 - Present)_ <br>
-Free, two-day workshops to help people build their first website.
-  - Creating a curriculum that covers HTML, CSS and a bit of JavaScript 
-  - Preparing supplemental presentations on topics like accessibility and animations
-  - Events in Nürnberg and Vienna, now post-poned due to the COVID-19 outbreak 
-  <br><br>
+## 🧑🏻‍🤝‍🧑🏽 Open Source contributions
 
-**Web Development Instructor** @ [ReDI School of Digital Integration](https://www.redi-school.org/) _(Feb 2017 - Aug 2021)_<br>
-Non-profit digital school for tech-interested newcomers applying for asylum in Germany.
-  - Built and continuously developed the course curriculum with a team of 4-8 other instructors
-  - Led classes to improve student comprehension of React, HTML, CSS and general web design principles
-  - Mentored students through presentations and job search
-  - _Note: Took a break from teaching in 2019_
-  <br><br>
-
-**Co-Organizer** @ [QueerJS](https://queerjs.com/) _(Jun 2019 - Dec 2021)_<br>
-🏳️‍🌈 A meetup for everyone where queer speakers take the stage.
-  - Selected speakers and scheduling events
-  - Fostered an inclusive community and enforced the code of conduct
-  - 🐻 _Previously co-organized [BerlinJS](https://berlinjs.org/) from May 2018 - May 2020_
-  <br><br>
+- Scikit learn
   
+<br><br>
 
-## 🎤 Public Speaking
+<!-- ## 🎤 Public Speaking
     
 ### Recent Appearances
 
@@ -127,8 +113,8 @@ Non-profit digital school for tech-interested newcomers applying for asylum in G
 **Want me to speak at your event?**
 <br>💖 [Check out my website](https://workwithcarolyn.com/speaking) for more information.
 <br><br>
-  
-## 🏆 Accomplishments
+   -->
+<!-- ## 🏆 Accomplishments
 
 **Won First Place** @ [Rainbows End Sex Tech Hackathon](https://hack.touchyfeely.tech/) _(May 2021)_ <br>
 Built [Tentilex](https://workwithcarolyn.com/blog/tentilex), a wearable armband that records your hand movement and generates a live 3D-model. 
@@ -141,24 +127,31 @@ Named one of the Top 500 authors in 2019. Also wrote two articles that ranked in
 
 **Won Best Project** @ [Geek Girl Carrots Berlin Hackathon](http://www.hacklikeagirl.co/) _(Oct 2017)_<br>
 Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report and retrieve lost & found objects for travelers abroad.
-<br><br>
+<br><br> -->
 
 ## 💬 Languages
 
-**English**: Native <br>
-**German**: A2.2
+**Spanish**: Native <br>
+**English**: Fluent <br>
+**French**: Conversational <br>
 <br><br>
 
-## 👩🏼‍🎓 Education
+## 📌 On The Side
 
-**12-week intensive coding course** focused on full-stack JavaScript<br>
-[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
+**Motorbike Touring** @ Americas _(Nov 2017 - Sep 2019)_ <br>
 
-**Bachelor of Arts** in Journalism and Media Studies<br>
-[Beloit College](https://www.beloit.edu/) - Beloit, Wisconsin, USA _(2011 - 2015)_
+I did a 22 months motorbike solo tour around South, Central and North America as a full-time traveler. I drove 35000 km, visited 17 countries, and met **a lot** of wonderful people. Some interesting aspects of this experience:
+  - Kept up a travel blog (in Spanish), [see here](https://lavidaquedanlasvueltas.wordpress.com/). 
+  - Broadcasted adventures and interesting historical facts of the places I visited via instagram with +2k followers. [Check it here](https://instagram.com/lavidaquedanlasvueltas) (in Spanish).
+  - I learnt the art of motorcycle maintenance. And some Zen.
+  <br><br>
 
-**Washington Semester Program** for Journalism and New Media<br>
-[American University](https://www.american.edu/) - Washington DC, USA _(Fall 2014)_
+**Barista, waiter and private tutor** @ London, UK _(Oct 2013 - Sep 2014)_ <br>
 
-**International Exchange** studying Political Science<br>
-[Yeditepe Üniversitesi](https://yeditepe.edu.tr/en) - Istanbul, Turkey _(Spring 2013)_
+After my undergraduate studies I took an academic gap year. During this period I had a number of jobs, including: barista, waiter, kitchen porter and private math tutor.
+
+  <br><br>
+
+
+## 📰 Publications
+See my [google scholar](https://scholar.google.com/citations?user=9fba9FMAAAAJ) profile for a list of scientific publications.
