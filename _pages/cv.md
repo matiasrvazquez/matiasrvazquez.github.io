@@ -9,7 +9,7 @@ _(Data) Scientist based in London, UK_ <br> -->
 
 ## 🧑🏻‍💻 Data Science Experience
 
-**Lead Data Scientist** @ [Deloitte Ventures](https://www2.deloitte.com/uk/en/pages/innovation/solutions/ventures.html) _(Jun 2021 - Present)_ <br><br>
+**Lead Data Scientist** @ [Deloitte Ventures](https://www2.deloitte.com/uk/en/pages/innovation/solutions/ventures.html) _(Jun 2022 - Present)_ <br><br>
 **Senior Data Scientist** @ [Deloitte Ventures](https://www2.deloitte.com/uk/en/pages/innovation/solutions/ventures.html)  _(Aug 2021 - Jun 2022)_ <br>
 Deloitte's assets branch.
   - Worked in cross-functional, agile teams to build tech products
