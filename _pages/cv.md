@@ -9,7 +9,12 @@ _(Data) Scientist based in London, UK_ <br> -->
 
 ## 🧑🏻‍💻 Data Science Experience
 
-**Lead Data Scientist** @ [Deloitte Ventures](https://www2.deloitte.com/uk/en/pages/innovation/solutions/ventures.html) _(Jun 2022 - Present)_ <br>
+**Senior Data Scientist** @ [PhysicsX](https://www.physicsx.ai) _(May 2023 - Present)_ <br>
+  - Research in GNN
+  - Modelling of complex physical systems using DL methods for advenced engineering desing.
+  - Design of DL solutions for the operation of complex industrial-scale systems.
+
+**Lead Data Scientist** @ [Deloitte Ventures](https://www2.deloitte.com/uk/en/pages/innovation/solutions/ventures.html) _(Jun 2022 - May 2023)_ <br>
 
   - Lead the DS team working on a healthcare SaMD.
   - Own the ML design, development and maintenance of the product.
